@@ -152,6 +152,7 @@ main h1 {
   width: 100%;
   aspect-ratio: 16/9;
   object-fit: cover;
+  display: block;
 
 
   /*transition-property: all;
