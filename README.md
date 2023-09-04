@@ -1,7 +1,7 @@
 # FotoBlog
 This project was developed with the following technologies:
 
- - HTML e CSS
+ - HTML and CSS
  - Figma
 
 This stage I learning:
